@@ -16,10 +16,11 @@ Each folder contains solutions for LeetCode problems solved in that language.
 
 ```
 /
-|- python/
-|  |- solutions/
-|  |  |- utils/
-|  |  |- 0001-two-sum.py
+|-- python/
+|   |-- solutions/
+|   |   |-- utils/
+|   |   |-- 0001-two-sum.py
+|   |   |-- 0260-single-number-iii.py
 ```
 
 ## Contributing
