@@ -18,7 +18,7 @@ class Solution:
         has been seen, then return it and the current element's indices. Else,
         add it to the dictionary of seen elements with its index as its value.
         """
-        # Initialise dictionary of seen element
+        # Initialise dictionary of seen elements
         seen = {}
         # Pass over inputs
         for i, n in enumerate(nums):
@@ -30,6 +30,8 @@ class Solution:
                 return [seen[complement], i]
             # Add current input to dictionary
             seen[n] = i
+        # Return empty list if no pair found
+        return []
 
 
 class Test:
