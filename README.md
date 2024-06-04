@@ -27,9 +27,16 @@ Each directory contains solutions in a given language:
 |   |   |-- lib.rs
 ```
 
-## Contributing
+## Solutions
 
-This repository is primarily for my own solutions and write-ups, and contributions will generally not be considered.
+| Problem                                               | Python                                                                           | Rust                                        |
+|-------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------|
+| 1. Two Sum                                            | [0001](python/solutions/0001-two-sum.py)                                         | [0001](rust/src/solutions/_0001_two_sum.rs) |
+| 260. Single Number III                                | [0260](python/solutions/0260-single-number-iii.py)                               |                                             |
+| 344. Reverse String                                   | [0344](python/solutions/0344-reverse-string.py)                                  |                                             |
+| 409. Longest Palindrome                               | [0409](python/solutions/0409-longest-palindrome.py)                              |                                             |
+| 2486. Append Characters to String to Make Subsequence | [2486](python/solutions/2486-append-characters-to-string-to-make-subsequence.py) |                                             |
+| 3110. Score of a String                               | [3110](python/solutions/3110-score-of-a-string.py)                               |                                             |
 
 ## License
 
