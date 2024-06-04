@@ -9,6 +9,7 @@ Solutions are currently available in the following languages:
 | Language | Status                                                                                                                 |
 | -------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Python   | ![Python Workflow Status](https://github.com/prefixsum/leetcode-solutions/actions/workflows/test-python.yml/badge.svg) |
+| Rust     | ![Rust Workflow Status](https://github.com/prefixsum/leetcode-solutions/actions/workflows/test-rust.yml/badge.svg)     |
 
 ## Structure
 
@@ -20,8 +21,14 @@ Each folder contains solutions for LeetCode problems solved in that language.
 |   |-- solutions/
 |   |   |-- utils/
 |   |   |-- 0001-two-sum.py
-|   |   |-- 0260-single-number-iii.py
-|   |   |-- 0344-reverse-string.py
+|   |   |-- ...
+|-- rust/
+|   |-- src/
+|   |   |-- solutions/
+|   |   |   |-- _0001_two_sum.rs
+|   |   |   |-- ...
+|   |   |   |-- mod.rs
+|   |   |-- lib.rs
 ```
 
 ## Contributing
