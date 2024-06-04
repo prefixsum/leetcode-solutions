@@ -21,6 +21,7 @@ Each folder contains solutions for LeetCode problems solved in that language.
 |   |   |-- utils/
 |   |   |-- 0001-two-sum.py
 |   |   |-- 0260-single-number-iii.py
+|   |   |-- 0344-reverse-string.py
 ```
 
 ## Contributing
