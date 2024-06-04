@@ -1,10 +1,6 @@
 # prefixsum/leetcode-solutions
 
-This repository contains solutions for various LeetCode problems. Each solution is automatically tested using GitHub Actions to ensure correctness.
-
-## Languages
-
-Solutions are currently available in the following languages:
+Solutions for various LeetCode problems in the following languages:
 
 | Language | Status                                                                                                                 |
 | -------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -13,7 +9,7 @@ Solutions are currently available in the following languages:
 
 ## Structure
 
-Each folder contains solutions for LeetCode problems solved in that language.
+Each directory contains solutions in a given language:
 
 ```
 /
