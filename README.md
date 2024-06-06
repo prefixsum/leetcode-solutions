@@ -30,7 +30,7 @@ Each directory contains solutions in a given language:
 ## Solutions
 
 | Problem                                               | Python                                                                           | Rust                                        |
-|-------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------|
+| ----------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------- |
 | 1. Two Sum                                            | [0001](python/solutions/0001-two-sum.py)                                         | [0001](rust/src/solutions/_0001_two_sum.rs) |
 | 260. Single Number III                                | [0260](python/solutions/0260-single-number-iii.py)                               |                                             |
 | 344. Reverse String                                   | [0344](python/solutions/0344-reverse-string.py)                                  |                                             |
