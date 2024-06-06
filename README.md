@@ -35,6 +35,7 @@ Each directory contains solutions in a given language:
 | 260. Single Number III                                | [0260](python/solutions/0260-single-number-iii.py)                               |                                             |
 | 344. Reverse String                                   | [0344](python/solutions/0344-reverse-string.py)                                  |                                             |
 | 409. Longest Palindrome                               | [0409](python/solutions/0409-longest-palindrome.py)                              |                                             |
+| 846. Hand of Straights                                | [0846](python/solutions/0846-hand-of-straights.py)                               |                                             |
 | 1002. Find Common Characters                          | [1002](python/solutions/1002-find-common-characters.py)                          |                                             |
 | 2486. Append Characters to String to Make Subsequence | [2486](python/solutions/2486-append-characters-to-string-to-make-subsequence.py) |                                             |
 | 3110. Score of a String                               | [3110](python/solutions/3110-score-of-a-string.py)                               |                                             |
