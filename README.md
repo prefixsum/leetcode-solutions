@@ -42,6 +42,7 @@ Each directory contains solutions in a given language:
 | 974. Subarray Sums Divisible by K                     | [0974](python/solutions/0974-subarray-sums-divisible-by-k.py)                    |                                             |
 | 1002. Find Common Characters                          | [1002](python/solutions/1002-find-common-characters.py)                          |                                             |
 | 1051. Height Checker                                  | [1051](python/solutions/1051-height-checker.py)                                  |                                             |
+| 1509. Minimum Difference Between Largest and Smallest Value in Three Moves                               | [1509](python/solutions/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves.py)                               |                                             |
 | 1550. Three Consecutive Odds                          | [1550](python/solutions/1550-three-consecutive-odds.py)                          |                                             |
 | 2486. Append Characters to String to Make Subsequence | [2486](python/solutions/2486-append-characters-to-string-to-make-subsequence.py) |                                             |
 | 3110. Score of a String                               | [3110](python/solutions/3110-score-of-a-string.py)                               |                                             |
